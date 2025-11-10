@@ -1,4 +1,4 @@
-# Computer Vision Project - CLR-Based Document Scanner
+# Computer Vision Project - OpenCV-Based Document Scanner
 ## Breaking Down Document Scanner into 5 Course Learning Requirements
 
 ---
